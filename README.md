@@ -1,6 +1,6 @@
 # Kong user call July 2022
 
-This repository hsts all slides and examples from the 2022-07 Kong user call
+This repository hosts all slides and examples from the 2022-07 Kong user call
 
 # Folders
 
