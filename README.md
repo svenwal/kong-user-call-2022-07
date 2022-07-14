@@ -32,3 +32,4 @@ We have seen an Insomnia project with some tests embedded. This can be found (an
 - inso cli: <https://insomnia.rest/products/inso>
 - decK: <https://github.com/Kong/deck>
 - httpie: <https://httpie.io/>
+- OpenAPI2Kong: <https://www.npmjs.com/package/openapi-2-kong>
